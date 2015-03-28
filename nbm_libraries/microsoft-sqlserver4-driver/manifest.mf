@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: com.microsoft.sqlserver.jdbc
+OpenIDE-Module-Layer: com/microsoft/sqlserver/jdbc/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/microsoft/sqlserver/jdbc/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
