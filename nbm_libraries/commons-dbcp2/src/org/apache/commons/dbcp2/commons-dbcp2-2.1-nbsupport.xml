@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE library PUBLIC "-//NetBeans//DTD Library Declaration 1.0//EN" "http://www.netbeans.org/dtds/library-declaration-1_0.dtd">
+<library version="1.0">
+    <name>commons-dbcp2-2.1-nbsupport</name>
+    <type>j2se</type>
+    <localizing-bundle>org.apache.commons.dbcp2.Bundle</localizing-bundle>
+    <volume>
+        <type>classpath</type>
+        <resource>jar:nbinst://org.apache.commons.dbcp2/libs/commons-dbcp2-2.1.jar!/</resource>
+    </volume>
+    <volume>
+        <type>src</type>
+        <resource>jar:nbinst://org.apache.commons.dbcp2/sources/commons-dbcp2-2.1-nbsupport-java.zip!/</resource>
+    </volume>
+    <volume>
+        <type>javadoc</type>
+        <resource>jar:nbinst://org.apache.commons.dbcp2/docs/commons-dbcp2-2.1-javadoc.jar!/</resource>
+    </volume>
+</library>

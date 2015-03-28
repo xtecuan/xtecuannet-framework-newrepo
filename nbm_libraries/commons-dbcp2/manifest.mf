@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.apache.commons.dbcp2
+OpenIDE-Module-Layer: org/apache/commons/dbcp2/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/apache/commons/dbcp2/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
